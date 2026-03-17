@@ -55,6 +55,7 @@ print("---------------------------------------------------------------")
 ```
 
 ## Output :
+<img width="743" height="330" alt="Screenshot 2026-03-15 210607" src="https://github.com/user-attachments/assets/c13a7091-d45b-4048-a706-cd3b8b5c45c9" />
 
 
 ## Result :
